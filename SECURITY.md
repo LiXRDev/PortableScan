@@ -18,3 +18,9 @@
 * **Nasıl Bildirirsiniz?** Açığı public (açık) bir Issue olarak **açmayın**. Bunun yerine doğrudan [GitHub Profilim üzerinden iletişime geçebilir](https://github.com/Aras-dev) veya projedeki iletişim adresini kullanabilirsiniz.
 * **Ne Beklemelisiniz?** Bildiriminizi aldıktan sonra en geç **48 saat** içinde geri dönüş yapmaya çalışırım.
 * **Süreç:** Bildirilen açık incelenip doğrulandığı takdirde, yama yayınlanana kadar gizlilik ilkesiyle çözülür ve güncelleme sonrasında katkınız için teşekkür edilir.
+
+---
+
+### Yasal Uyarı / Sorumluluk Reddi
+
+Bu yazılım (`PortableScan`) yalnızca analiz, eğitim ve güvenlik denetimi amacıyla sağlanmaktadır. Yazılımın kullanımından doğabilecek hiçbir doğrudan veya dolaylı maddi/manevi zarardan, veri kaybından veya yasal sorumluluktan geliştirici sorumlu tutulamaz. Tüm sorumluluk tamamen kullanıcıya aittir.
