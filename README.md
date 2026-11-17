@@ -32,16 +32,6 @@ Bu yazılım (`PortableScan`) yalnızca analiz, eğitim ve güvenlik denetimi am
 
 ---
 
-## Öne Çıkan Özellikler ve Çalışma Mantığı
-
-* **Güvenli Statik Analiz:** PowerShell, Python, JavaScript, VBScript, Batch ve arşiv dosyalarını hiçbir kodu yürütmeden, içe aktarmadan veya diske yazmadan tamamen güvenli bir şekilde inceler.
-* **Gizlenmiş İçerik Çözücü:** Base64, Hex, karakter kodları ve URL encoding ile gizlenmiş metin katmanlarını otomatik olarak deşifre ederek okunabilir hale getirir.
-* **Gelişmiş Kural Motoru:** Regex kalıpları ve YARA kuralları sayesinde şüpheli komutları, reverse shell (uzaktan kontrol) izlerini, antivirüs kapatma girişimlerini ve zararlı API çağrılarını yakalar.
-* **VirusTotal & Windows Defender Entegrasyonu:** Dosya SHA256 hash değerini VirusTotal'de sorgular veya yerleşik Windows Defender ile rapor modunda (`-DisableRemediation`) tarama gerçekleştirir.
-* **Dijital İmza & Entropi Kontrolü:** Çalıştırılabilir dosyaların yayıncı imzalarını doğrular, paketlenmiş (packer) veya şifrelenmiş içerikleri entropi analiziyle tespit eder.
-
----
-
 ## Kullanılan Kütüphaneler ve Teknolojiler
 
 Projenin geliştirilmesinde kullanılan harici Python paketleri ve yerleşik modüller:
