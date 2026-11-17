@@ -23,3 +23,9 @@ Dosyaları çalıştırılmadan (statik analiz yaparak) inceleyen, içinde ne ol
 ### Kurulum ve Çalıştırma
 
 Releases kısmından ".exe" dosyasını indirip açmanız yeterlidir.
+
+---
+
+### Yasal Uyarı / Sorumluluk Reddi
+
+Bu yazılım (`PortableScan`) yalnızca analiz, eğitim ve güvenlik denetimi amacıyla sağlanmaktadır. Yazılımın kullanımından doğabilecek hiçbir doğrudan veya dolaylı maddi/manevi zarardan, veri kaybından veya yasal sorumluluktan geliştirici sorumlu tutulamaz. Tüm sorumluluk tamamen kullanıcıya aittir.
